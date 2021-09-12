@@ -76,7 +76,7 @@ void main() {
   z??=a+b;
   print("output --> $z"); //a=10 and b=20
   z??=a*b;
-  print("output --> $z"); //it will print prev value of z 
+  print("output > $z"); //it will print prev value of z 
 
   print("--------------------");
   print("LOGICAL Operators");
